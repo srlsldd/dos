@@ -14,3 +14,5 @@ type it twice
 update DOS-8
 
 take two DOS-8
+
+update DOS-1
